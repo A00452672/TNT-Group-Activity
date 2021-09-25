@@ -16,3 +16,11 @@ if(b!=0)
 	return a%b;
 return a%2;
 }
+
+#A00453930
+
+public int getMin(int a, int b)
+{
+ return Math.min(a,b);
+
+}
