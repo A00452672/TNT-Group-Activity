@@ -11,3 +11,10 @@ public int findAverage(int a, int b)
 {
 return Math.avg(a,b);
 }
+
+#A00453930
+
+public int findPower(int a, int b)
+{
+ return Math.pow(a,b);
+}
