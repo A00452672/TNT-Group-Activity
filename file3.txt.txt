@@ -4,3 +4,10 @@ public int findMaximum(int a, int b)
 {
 return Math.max(a,b);
 }
+
+#A00455796
+
+public int findAverage(int a, int b)
+{
+return Math.avg(a,b);
+}
